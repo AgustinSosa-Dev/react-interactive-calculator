@@ -1,4 +1,4 @@
-# 🖩📌 Calculadora de reacción interactiva
+# 🖩📌 Calculadora Interactiva
 ¡Hola a todos!
 
 Esta es una aplicación, desarrollada con React, en el curso FreeCodeCamp.
