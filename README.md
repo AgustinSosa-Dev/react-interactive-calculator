@@ -7,7 +7,7 @@ Es una calculadora interactiva que realiza las cuatro operaciones aritméticas b
 
 La estructura inicial de esta aplicación se creó con el comando `npx create-react-app`.
 
-# Ver una previsualización del proyecto en cuestión, en tiempo real:
+# Ver una previsualización del proyecto, en tiempo real:
 https://react-interactive-calculator.netlify.app/
 
 Comenzando 🚀
