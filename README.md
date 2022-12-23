@@ -5,7 +5,11 @@ Esta es una aplicación, desarrollada con React, en el curso FreeCodeCamp.
 
 Es una calculadora interactiva que realiza las cuatro operaciones aritméticas básicas (suma, resta, multiplicación y división).
 
-La estructura inicial de esta aplicación se creó con el comando `npx create-react-app`.
+La estructura inicial de esta aplicación se creó con el comando: 
+
+```bash
+npx create-react-app
+```
 
 # Ver una previsualización del proyecto, en tiempo real:
 https://react-interactive-calculator.netlify.app/
