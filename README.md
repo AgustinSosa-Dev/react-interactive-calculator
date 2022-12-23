@@ -25,7 +25,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 [http://localhost:3000](http://localhost:3000) 
 
 
-🛠️ Construido con las siguientes librerias: 
+🛠️ Construido, utilizando las siguientes dependencias: 
 
 <ul>
     <li>react</li>
