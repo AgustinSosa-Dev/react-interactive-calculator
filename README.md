@@ -17,8 +17,9 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 1. Abrir la consola (cmd o powershell).
 2. Clonar este repositorio, utilizando el comando: **git clone <nombre del repositorio>**
-3. Luego, escribir el comando: **npm i**. (Para poder instalar las dependencias necesarias).
-4. Por último, escribir el comando: **npm start**.
+3. De ser necesario, navegar hasta el directorio del proyecto en cuestión.
+4. Luego, escribir el comando: **npm i**. (Para poder instalar todas las dependencias necesarias).
+5. Por último, escribir el comando: **npm start**.
   
 <h2>De esta forma, el proyecto será desplegado de manera local.</h2> 
 [http://localhost:3000](http://localhost:3000) 
